@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcos from Brazil (brazil). I've been working as Front-End Developer since 2018.
+My name is Marcos from Brazil. I've been working as Front-End Developer since 2018.
 
 <div align="center">
  
