@@ -39,19 +39,15 @@ Actually learning **Kotlin** and **Web Accessibility**
 
 ## **Most Used Languages**
 
-<div>
- <a href="https://github.com/marcos012">
-   <img width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos012&layout=compact" alt="marcos012" />
- </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos012&layout=compact&theme=onedark)](https://github.com/marcos012?tab=repositories)
 
-## **Find Me**
+## **Find Me** 
 
 <div>
- <a href="https://www.linkedin.com/in/marcos012/">
+ <a href="https://www.linkedin.com/in/marcos012/" target="_blank">
    <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=marcos012&color=blue&style=for-the-badge" height=25 width=180/>
  </a>
- <a href="https://instagram.com/_marcos012">
+ <a href="https://instagram.com/_marcos012" target="_blank">
    <img align="center" src="https://img.shields.io/static/v1?&logo=Instagram&label=Insta&message=_marcos012&color=%23E4405F&style=for-the-badge" height=25 width=160/>
  </a>
 </div>
