@@ -45,9 +45,9 @@ Actually learning **Kotlin** and **Web Accessibility**
 
 <div>
  <a href="https://www.linkedin.com/in/marcos012/" target="_blank">
-   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=marcos012&color=blue&style=for-the-badge" height=25 width=180/>
+   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=marcos012&color=blue&style=for-the-badge" />
  </a>
  <a href="https://instagram.com/_marcos012" target="_blank">
-   <img align="center" src="https://img.shields.io/static/v1?&logo=Instagram&label=Insta&message=_marcos012&color=%23E4405F&style=for-the-badge" height=25 width=160/>
+   <img align="center" src="https://img.shields.io/static/v1?&logo=Instagram&logoColor=white&label=&message=_marcos012&color=E4405F&style=for-the-badge" />
  </a>
 </div>
