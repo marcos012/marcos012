@@ -6,7 +6,7 @@ My name is Marcos from Brazil. I've been working as Front-End Developer since 20
 
 <img src="./cat-typing.gif" width="100px">
 
-Actually learning **Kotlin** and **Web Accessibility**
+Actually learning **NextJS** and **Cloud**
 <br>
 </div>
 
