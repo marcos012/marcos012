@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Marcos from Brazil. I've been working as Front-End Developer since 2018.
+My name is Marcos from Brazil. I've been working as software engineer since 2018.
 
 <div align="center">
 
 <img src="./cat-typing.gif" width="100px">
 
-Actually learning **NextJS** and **Cloud**
+Actually learning **Software architecture** and **DevOps** at [Full Cycle](https://curso.fullcycle.com.br/curso-fullcycle/)
 <br>
 </div>
 
